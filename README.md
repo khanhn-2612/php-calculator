@@ -10,7 +10,7 @@ A basic calculator package for Laravel.
 ## Installation
 
 ```bash
-composer require khanhn/php-calculator
+composer require khanhn-2612/php-calculator
 ```
 
 Laravel auto-discovers the service provider via package auto-discovery.

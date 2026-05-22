@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-A Laravel package (`khanhn/php-calculator`) providing basic arithmetic operations. Requires PHP 8.0+ and supports Laravel 9/10/11.
+A Laravel package (`khanhn-2612/php-calculator`) providing basic arithmetic operations. Requires PHP 8.0+ and supports Laravel 9/10/11.
 
 ## Commands
 
