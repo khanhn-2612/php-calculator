@@ -4,8 +4,8 @@ A basic calculator package for Laravel.
 
 ## Requirements
 
-- PHP 8.0+
-- Laravel 9 / 10 / 11
+- PHP 8.2+
+- Laravel 9 / 10 / 11 / 12
 
 ## Installation
 
