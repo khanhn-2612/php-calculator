@@ -18,7 +18,8 @@ composer install                              # install dependencies
 
 ```
 src/
-  Calculator.php              # core class — add, subtract, multiply, divide
+  Calculator.php              # core class — arithmetic, math ops, rounding; static chain() factory
+  Chain.php                   # fluent wrapper returned by Calculator::chain(value)
   CalculatorServiceProvider.php  # registers 'calculator' singleton in the container
   Facades/Calculator.php      # facade pointing to the 'calculator' binding
 tests/
